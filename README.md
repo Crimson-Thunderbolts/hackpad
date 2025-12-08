@@ -42,8 +42,8 @@ Display: 1x 0.91 inch OLED display
 
 # Building one:
 
-/pcb- Kicad files 
+/PCB- Kicad files 
 
-/cad- Cad files for case\
+/CAD- Cad files for case
 
-/kmk- code
+/KMK- code
